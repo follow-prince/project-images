@@ -1,0 +1,25 @@
+Category,Question ID,Question,Answer,True Answer
+A1,1,What does 'happy' mean????,Üzgün,false
+A1,1,What does 'happy' mean????,Sinirli,false
+A1,1,What does 'happy' mean????,Mutlu,true
+A1,1,What does 'happy' mean????,Sıkıcı,false
+A1,2,What does 'book' mean?,Telefon,false
+A1,2,What does 'book' mean?,Anahtar,false
+A1,2,What does 'book' mean?,Kitap,true
+A1,2,What does 'book' mean?,Kalem,false
+A1,3,What does 'hot' mean?,Soğuk,false
+A1,3,What does 'hot' mean?,Sıcak,true
+A1,3,What does 'hot' mean?,Nemli,false
+A1,3,What does 'hot' mean?,Kuru,false
+A2,1,What does 'ability' mean?,Kabiliyet,true
+A2,1,What does 'ability' mean?,Kısa,false
+A2,1,What does 'ability' mean?,Yorgun,false
+A2,1,What does 'ability' mean?,Zeki,false
+A2,2,What does 'accept' mean?,Reddetmek,false
+A2,2,What does 'accept' mean?,Birleştirmek,false
+A2,2,What does 'accept' mean?,Kabul etmek,true
+A2,2,What does 'accept' mean?,Ayrılmak,false
+A2,3,What does 'achieve' mean?,Kaybetmek,false
+A2,3,What does 'achieve' mean?,Başarmak,true
+A2,3,What does 'achieve' mean?,Savaşmak,false
+A2,3,What does 'achieve' mean?,Dinlenmek,false
