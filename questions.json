@@ -2,35 +2,235 @@
   "A1": [
     {
       "id": 1,
-      "question": "What does 'happy' mean????",
+      "question": "மகாபலிபுரத்திலுள்ள பாறைகளிலுள்ள சிற்பக்கலை பின்வரும் ஒரு குறிப்பிட்ட மன்னவர்கள் காலத்தில் செய்யப்பட்டது?",
       "answers": [
-        { "answer": "Üzgün", "trueAnswer": false },
-        { "answer": "Sinirli", "trueAnswer": false },
-        { "answer": "Mutlu", "trueAnswer": true },
-        { "answer": "Sıkıcı", "trueAnswer": false }
+        { "answer": "சாளுக்கியர்கள்", "trueAnswer": false },
+        { "answer": "பாண்டியர்கள்", "trueAnswer": false },
+        { "answer": "சோழர்கள்", "trueAnswer": false },
+        { "answer": "பல்லவர்கள்", "trueAnswer": true }
       ]
     },
     {
       "id": 2,
-      "question": "What does 'book' mean?",
+      "question": "முதன்முதலாக விண்வெளிக்கு ஒரு மனிதரை அனுப்பிய நாடு?",
       "answers": [
-        { "answer": "Telefon", "trueAnswer": false },
-        { "answer": "Anahtar", "trueAnswer": false },
-        { "answer": "Kitap", "trueAnswer": true },
-        { "answer": "Kalem", "trueAnswer": false }
+        { "answer": "அமேரிக்கா", "trueAnswer": false },
+        { "answer": "ஜப்பான்", "trueAnswer": false },
+        { "answer": "ஜெர்மனி", "trueAnswer": false	 },
+        { "answer": "ரஷ்யா", "trueAnswer": true }
       ]
     },
     {
       "id": 3,
-      "question": "What does 'hot' mean?",
+      "question": "தென்னிந்தியாவின் மிக நீளமான நதி?",
       "answers": [
-        { "answer": "Soğuk", "trueAnswer": false },
-        { "answer": "Sıcak", "trueAnswer": true },
-        { "answer": "Nemli", "trueAnswer": false },
-        { "answer": "Kuru", "trueAnswer": false }
+        { "answer": "வைகை", "trueAnswer": false },
+        { "answer": "கிருஷ்ணா", "trueAnswer": false },
+        { "answer": "காவேரி", "trueAnswer": false },
+        { "answer": "கோதாவரி", "trueAnswer": true }
       ]
-    }
-  ],
+    },
+    {
+      "id": 4,
+      "question": "சுடு - பெயர்ச் சொல்லின் வகை அறிக ?",
+      "answers": [
+        { "answer": "காலப்பெயர்", "trueAnswer": false },
+        { "answer": "பொருட்பெயர்", "trueAnswer": false },
+        { "answer": "முதனிலைத் தொழிற்பெயர்", "trueAnswer": false },
+        { "answer": "முதனிலைத் திரிந்த தொழிற்பெயர்", "trueAnswer": true }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "உலகின் முதல் விண்வெளி வீரர் யார்?",
+      "answers": [
+        { "answer": "கோல்ட் ஸ்மித்", "trueAnswer": false },
+        { "answer": "ஹார்னி", "trueAnswer": false },
+        { "answer": " 	யூரி ககாரின்", "trueAnswer": true },
+        { "answer": "ரே நோரிஸ்", "trueAnswer": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "2015 - செல்வி.ஜெ.ஜெயலலிதாவை சந்தித்த மத்திய நிதி அமைச்சர் யார்?",
+      "answers": [
+        { "answer": "பிரணாப் முகர்ஜி", "trueAnswer": false },
+        { "answer": "யஸ்வந்த்சின்கா", "trueAnswer": false },
+        { "answer": "அருண் ஜேட்லி", "trueAnswer": true },
+        { "answer": "ப.சிதம்பரம்", "trueAnswer": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "அமில மழைக்குக் காரணமான சேர்மங்கள்?",
+      "answers": [
+        { "answer": "கார்பன் மோனாக்ஸைடு", "trueAnswer": false },
+        { "answer": "சிலிக்கான் டை ஆக்ஸைடு", "trueAnswer": false },
+        { "answer": "நைட்ரஜன் டை ஆக்ஸைடு", "trueAnswer": false },
+        { "answer": "சல்பர் டை ஆக்ஸைடு", "trueAnswer": true }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "3, 12, 48, ……. என்ற பெருக்குத் தொடரில் முதல் 6 உறுப்புகளின் கூடுதல்?",
+      "answers": [
+        { "answer": "3072", "trueAnswer": false },
+        { "answer": "4095", "trueAnswer": true },
+        { "answer": "2143", "trueAnswer": false },
+        { "answer": "16383", "trueAnswer": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "காற்றில்லா சிவாசித்தல் நடப்பது?",
+      "answers": [
+        { "answer": "ஆக்சிஜன் இருக்கும் போது", "trueAnswer": false },
+        { "answer": "ஆக்சிஜன் இல்லாத போது", "trueAnswer": true },
+        { "answer": "1 மற்றும் 2", "trueAnswer": false },
+        { "answer": "இவற்றில் ஏதுமில்லை", "trueAnswer": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "புற உண்ணிக்கு எடுத்துக்காட்டு?",
+      "answers": [
+        { "answer": "ஹிருடினேரியா", "trueAnswer": true },
+        { "answer": "எண்டமீபா", "trueAnswer": false },
+        { "answer": "டீனியா", "trueAnswer": false },
+        { "answer": "அஸ்காரிஸ்", "trueAnswer": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "இந்தியாவில் ஆட்சி மொழியாக உள்ள மொழிகள்?",
+      "answers": [
+        { "answer": "16", "trueAnswer": false },
+        { "answer": "14", "trueAnswer": false },
+        { "answer": "18", "trueAnswer": true },
+        { "answer": "21", "trueAnswer": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "ஒளியின் எந்த நிறம் நீண்ட அலைநீளம் கொண்டுள்ளது?",
+      "answers": [
+        { "answer": "சிகப்பு", "trueAnswer": true },
+        { "answer": "பச்சை", "trueAnswer": false },
+        { "answer": "மஞ்சள்", "trueAnswer": false },
+        { "answer": "ஊதா", "trueAnswer": false }
+      ]
+    },
+     {
+      "id": 13,
+      "question": "பூமியின் விட்டம்........................ கி.மீ?",
+      "answers": [
+        { "answer": "17756 கி.மீ", "trueAnswer": false },
+        { "answer": "12756 கி.மீ", "trueAnswer": true },
+        { "answer": "10756 கி.மீ", "trueAnswer": false },
+        { "answer": "15756 கி.மீ", "trueAnswer": false }
+      ]
+    },
+        {
+      "id": 14,
+      "question": "துறைமுகம், ரெயில் நிலையம், விமானதளம் மூன்றும் வரிசையாக அமைந்துள்ள நகரம்?",
+      "answers": [
+        { "answer": "கொச்சின்", "trueAnswer": true },
+        { "answer": "மும்பை", "trueAnswer": false },
+        { "answer": "சென்னை", "trueAnswer": false },
+        { "answer": "கோவா", "trueAnswer": false }
+      ]
+    },
+    
+     {
+      "id": 15,
+      "question": "கூட்டல் இயந்திரத்தை கண்டுபிடித்தவர்?",
+      "answers": [
+        { "answer": "வில்லியம் பேட்சன்", "trueAnswer": false },
+        { "answer": "வாட்சன்", "trueAnswer": false },
+        { "answer": "பாஸ்கல்", "trueAnswer": true },
+        { "answer": "ஆர்ட்டிங்", "trueAnswer": false }
+      ]
+    },
+     {
+      "id": 16,
+      "question": "அணுவில் மின்சுமையற்ற துகள் உள்ளது என்பதை முதன்முதலில் கண்டறிந்தவர்?",
+      "answers": [
+        { "answer": "ரூதர்போர்டு", "trueAnswer": true },
+        { "answer": "சாட்விக்", "trueAnswer": false },
+        { "answer": "தாம்சன்", "trueAnswer": false },
+        { "answer": "போர்", "trueAnswer": false }
+      ]
+    },
+        {
+      "id": 17,
+      "question": "அம்மோனியத்தின் எந்த சேர்மம் வெடிபொருளாக பயன்படுவது?",
+      "answers": [
+        { "answer": "அம்மோனியம் நைட்ரேட்", "trueAnswer": true },
+        { "answer": "அம்மோனியம் பெராக்சைடு", "trueAnswer": false },
+        { "answer": "அம்மோனியம் டை ஆக்சைடு", "trueAnswer": false },
+        { "answer": "அம்மோனியம் ஹைட்ராக்சைடு", "trueAnswer": false }
+      ]
+    },
+        {
+      "id": 18,
+      "question": "இரு இலக்கமுள்ள எண்ணின் இடங்கள் ஒன்றோடொன்று மாற்றப்பட்டால் புதிய எண், பழைய எண்ணை விட 18 அதிகமாக உள்ளது. எனில் அந்த எண் யாது?",
+      "answers": [
+        { "answer": "57", "trueAnswer": true },
+        { "answer": "52", "trueAnswer": false },
+        { "answer": "75", "trueAnswer": false },
+        { "answer": "86", "trueAnswer": false }
+      ]
+    },
+        {
+      "id": 19,
+      "question": "ஒரு வெப்பமான பொருள் கதிர்வீச்சின் மூலம் வெப்பத்தை விரைவாக இழக்க அதன் பரப்பு அமைவது?",
+      "answers": [
+        { "answer": "கருமையாகவும் சொரசொரப்பாகவும் இருத்தல் வேண்டும்", "trueAnswer": false },
+        { "answer": "வெண்மையாகவும் பளபளப்பாகவும்", "trueAnswer": true },
+        { "answer": "வெண்மையாகவும் சொரசொரப்பாகவும்", "trueAnswer": false },
+        { "answer": "கருமையாகவும் பளபளப்பாகவும்", "trueAnswer": false }
+      ]
+    },
+        {
+      "id": 20,
+      "question": "கருவிகள் செய்ய முதன் முதலாக பயன்படுத்தப்பட்ட உலோகம்?",
+      "answers": [
+        { "answer": "இரும்பு", "trueAnswer": false },
+        { "answer": "செம்பு", "trueAnswer": false },
+        { "answer": "தகரம்", "trueAnswer": false },
+        { "answer": "வெண்கலம்", "trueAnswer": true }
+      ]
+    },
+ ],
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   "A2": [
     {
       "id": 1,
