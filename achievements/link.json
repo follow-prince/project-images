@@ -1,0 +1,77 @@
+[
+    {
+      "icon": "https://www.svgrepo.com/download/353810/google-developers.svg",
+      "idLink" : "https://g.dev/follow-prince",
+      "id": "follow-prince",
+      "platform": "Google Developers",
+      "shortLink": "g.dev/follow-prince"
+      
+    },
+    {
+      "icon":"https://www.svgrepo.com/download/452062/microsoft.svg",
+      "idLink": "https://learn.microsoft.com/en-in/users/elavarasan",
+      "id" : "elavarasan",
+        "platform": "Microsoft Learn",
+        "shortLink": "learn.microsoft.com/en-in/users/elavarasan"
+    },
+    {
+        "icon":"https://www.svgrepo.com/download/439171/github.svg",
+        "idLink":"https://github.com/follow-prince",
+        "id":"follow-prince",
+        "platform": "GitHub",
+        "shortLink": "github.com/follow-prince"
+
+    },
+    {
+        "icon":"https://www.svgrepo.com/download/448226/gitlab.svg",
+        "idLink":"https://gitlab.com/follow-prince",
+        "id":"follow-prince",
+        "platform": "GitLab",
+        "shortLink": "gitlab.com/follow-prince"
+    },{
+        "idLink":"https://www.behance.net/follow-prince",
+        "icon":"https://www.svgrepo.com/download/475632/behance-color.svg",
+        "id":"follow-prince",
+        "platform": "Behance",
+        "shortLink": "behance.net/follow-prince"
+
+    },
+    {
+        "idLink":"https://stackoverflow.com/users/20083147/elavarasan",
+        "icon":"https://www.svgrepo.com/download/354388/stackoverflow.svg",
+        "id":"elavarasan",
+        "platform": "Stack Overflow",
+        "shortLink": "stackoverflow.com/users/20083147/elavarasan"
+    },{
+        "idLink":"https://leetcode.com/u/iam-prince/",
+        "icon":"https://www.svgrepo.com/download/306328/leetcode.svg",
+        "id":"iam-prince",
+        "platform": "LeetCode",
+        "shortLink": "leetcode.com/u/iam-prince"
+    },{
+        "idLink":"https://profile.codersrank.io/user/follow-prince/",
+        "icon":"https://www.svgrepo.com/download/353585/codersrank.svg",
+        "id":"follow-prince",
+        "platform": "CodersRank",
+        "shortLink": "profile.codersrank.io/user/follow-prince"
+    },{
+        "idLink":"https://www.codechef.com/users/follow_prince",
+        "icon":"https://www.svgrepo.com/download/305880/codechef.svg",
+        "id":"follow_prince",
+        "platform": "CodeChef",
+        "shortLink": "codechef.com/users/follow_prince"
+    },{
+        "idLink":"https://www.hackerrank.com/profile/elavarasa003",
+        "icon":"https://www.svgrepo.com/download/330599/hackerrank.svg",
+        "id":"elavarasa003",
+        "platform": "HackerRank",
+        "shortLink": "hackerrank.com/profile/elavarasa003"
+    },{
+        "idLink":"https://www.hackerearth.com/@elavarasa.003",
+        "icon":"https://www.svgrepo.com/download/306172/hackerone.svg",
+        "id":"elavarasa.003",
+        "platform": "HackerEarth",
+        "shortLink": "hackerearth.com/@elavarasa.003"
+    }
+ 
+  ]
